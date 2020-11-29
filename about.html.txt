@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+  <meta charset='UTF-8'>
+  <title>Portfolio Homepage</title>
+  <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <div class="container">
+    <div class="nav-wrapper">
+      <div class="left-side">
+        <div class="nav-link-wrapper">
+          <a href="index.html">Home</a>
+        </div>
+
+        <div class="nav-link-wrapper active-nav-link">
+          <a href="about.html">About</a>
+        </div>
+      </div>
+
+      <div class="right-side">
+        <div class="brand">
+          
+        </div>
+      </div>
+    </div>
+
+    <div class="content-wrapper">
+      <div class="two-column-wrapper">
+        <div class="profile-image-wrapper">
+          <img src="images/Sport.jpg" alt="">
+        </div>
+
+        <div class="profile-content-wrapper">
+          <h1>A sportokról dióhéjban</h1>
+          <p>A sport meghatározott célú mindennapos tevékenység, a mindennapoktól különböző környezetben; célja a testedzés, versenyzés, a szórakozás, eredmény elérése, a képességek fejlesztése. A kitűzött cél határozza meg a sport jellegét, a sportoló (vagy csapat) képességei és bátorsága mellett. A sport kifejezés az angolba származott francia „desporter” (mulatságoknak élő) szóból származik. Az angolban a 15. század közepe táján fordul elő először „szórakozás, időtöltés” értelemben. A 16. században már különféle játékok játszására alkalmazták, de főleg a szabadban végzett szabadidős tevékenységekre. Ekkor még sem a görög αγων (agón, verseny, mérkőzés), sem az αθλον (athlon, küzdelem díjért) jelentéseit nem értették bele.
+          </p>
+
+          <p></p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</body>
+
+</html>
